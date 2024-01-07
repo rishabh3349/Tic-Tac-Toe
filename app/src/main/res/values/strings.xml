@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Tic-Tac-Toe</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="play_against_friend">Play against friend</string>
+    <string name="play_against_computer">Play against Computer</string>
+    <string name="restart">Restart</string>
+    <string name="play_with_computer">Play with Computer</string>
+    <string name="play_with_friends">Play with Friends</string>
+    <string name="enter_player_1_name">Enter player 1 name</string>
+    <string name="enter_player_2_name">Enter player 2 name</string>
+    <string name="start">Start</string>
+</resources>
